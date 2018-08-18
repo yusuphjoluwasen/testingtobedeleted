@@ -1,0 +1,1 @@
+This is a new file i just created to test how to use git
